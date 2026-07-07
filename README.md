@@ -91,8 +91,7 @@ Evaluation included:
 
 ## 👩‍💻 Author
 
-**Ajeeta Singh**
+Ajeeta Singh
 
-B.Tech Biotechnology Student
 
 Project: Financial Fraud Detection using ANN
